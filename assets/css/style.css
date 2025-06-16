@@ -859,6 +859,7 @@ p {
 
 .header-content-right {
   position: relative;
+  max-width: 800px;
 }
 .header-content-right .sub-title {
   font-size: 30px;
@@ -883,6 +884,9 @@ p {
 }
 .header-content-right p {
   padding-bottom: 40px;
+  font-size: 1.1rem;
+  max-width: 600px;
+  line-height: 1.6;
 }
 
 .header-image {
